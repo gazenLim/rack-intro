@@ -4,7 +4,7 @@ require 'rack/test'
 
 def app() 
   MyServer.new
-end
+end 
 
 RSpec.configure do |config|
 
